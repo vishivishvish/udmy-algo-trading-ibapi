@@ -12,18 +12,10 @@
 
 - At the end of 2022, Mayank Rasu had 4 courses related to the Interactive Brokers API.
 - The correct order for these 4 courses is:
-  1. hgfhgf
-  2. ljlkj
-  3. lljklkj
- 
-
-
-
-1. Algorithmic Trading using Interactive Brokers’ Python API (this one)
-2. Advanced Concepts in Algorithmic Trading using Interactive Brokers’ Python API
-3. Algorithmic Options Trading on the Interactive Brokers Platform
-4. Quantitative Bond Trading on the Interactive Brokers Platform
-
+  1. Algorithmic Trading using Interactive Brokers’ Python API (this one)
+  2. Advanced Concepts in Algorithmic Trading using Interactive Brokers’ Python API
+  3. Algorithmic Options Trading on the Interactive Brokers Platform
+  4. Quantitative Bond Trading on the Interactive Brokers Platform
 - The second course - Advanced Concepts with Interactive Brokers, deals with slightly more complex IB API topics, such as the Execution API, the Scanner API, using IB API events to extract data more efficiently, and other such things.
 - With some programming background and after completing the first two courses, we should be able to build fairly complex trading applications using Interactive Brokers API tools.
 - There are also some product-specific courses - for ex: the course on Algorithmic Options Trading deals exclusively on how to implement derivative-based strategies, particularly Options, on the IB platform.
