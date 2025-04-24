@@ -6,7 +6,9 @@
 
 ***Notes by Vishnu Subramanian***
 
-## ***Section 1: Introduction to Interactive Brokers and its API | 1. IBAPI Courses***
+## ***Section 1: Introduction to Interactive Brokers and its API***
+
+### ***1. IBAPI Courses***
 
 - At the end of 2022, Mayank Rasu had 4 courses related to the Interactive Brokers API.
 - The correct order for these 4 courses is:
@@ -29,6 +31,6 @@
 - The best thing about the Client Portal API is that it’s based on the REST API, which is much easier to work with and navigate.
 - However, at the end of 2022, there were still a number of loose ends with the documentation of the Client Portal API that IBKR needed to address before it was suitable to move trading applications from TWS to Client Portal.
 
-## ***Section 1: Introduction to Interactive Brokers and its API | 2. IB TWS Introduction***
+### ***2. IB TWS Introduction***
 
 - 
