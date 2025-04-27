@@ -31,4 +31,21 @@
 
 ### ***2. IB TWS Introduction***
 
-- 
+- Interactive Brokers is the undisputed leader in providing discount brokerage services to traders around the world.
+- If you’re a rookie trader, looking to graduate to serious trading / investing, IB is a good choice because it tends to be the broker of choice for day traders, small firms and some serious traders, so you’ll be in good company.
+- IB lets you trade in a variety of products across a variety of markets.
+- To open an account on Interactive Brokers, you can either open a local account or a global account - these two accounts need to be opened separately, and you cannot move money between them.
+- Everything is different for these two accounts, such as the Funding and the Accounting.
+- So both these accounts will need to be opened separately, but you will be able to see them both tagged to your name.
+- The Global Account lets, for example, someone sitting in Asia, trade across different markets like the US market, the UK market, and other European and Asian markets.
+- In terms of the Trading Platforms offered by IB, you will need to get the Desktop TWS tool - that is required to implement API strategies.
+- When we discuss the API infrastructure of Interactive Brokers, it will become apparent why downloading the Desktop AWS tool is important.
+- But to implement an API-based solution, one more thing we will need to download is the IBKR API.
+- TWS can be downloaded for macOS directly on the page - the stable, time-tested version is recommended, but for macOS there’s a warning that there may be stability issues on Monterey and higher versions (not shown in the pic below).
+
+<img src="https://drive.google.com/uc?export=view&id=1q1XkkexHLeV8-sVnDLm2QMdkeot6to9g">
+
+- We will also need to download the API software for macOS in a similar manner, by going to the [TWS API page](https://interactivebrokers.github.io/), and installing the stable version for macOS.
+
+<img src="https://drive.google.com/uc?export=view&id=1PRy_6j0KIG1TC7lDU28m0Dv21ZwuaMPP">
+
